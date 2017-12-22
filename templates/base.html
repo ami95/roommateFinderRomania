@@ -7,9 +7,13 @@
   <body>
     {% block content %}
       <h2>Welcome to Roommate Finder!</h2>
+      {% if user.is_authenticated %}
+      <a href="/logout">Log out</a>
+      {% else %}
       <a href="/login">Log in</a>
       <br>
       <a href="/signup">Sign up</a>
+      {% endif %}
     {% endblock %}
   </body>
 </html>
