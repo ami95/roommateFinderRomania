@@ -19,6 +19,7 @@ from django.contrib.auth import views as auth_views
 from accounts import views as accounts_views
 
 urlpatterns = [
+    url(r'^signup/$', accounts_views.signup, name='signup'),
     url(r'^goodbye/$', accounts_views.goodbye, name='goodbye'),
     url(r'^$', accounts_views.index, name='index'),
     url(r'^login/$', auth_views.login, name='login'),
