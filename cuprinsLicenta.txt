@@ -1,0 +1,23 @@
+Cuprins(germana+romana)
+
+Introducere - Se va scrie pt. fiecare capitol cate 1-2 fraze. Motivatia ~1 pag(germana+romana)
+
+Cap1. Elemente ale lbj HTML5 si reguli CSS3   - 8-10pag
+Cap2. Elemente ale limbajului javascript si biblioteca jquery -8-10 pag
+Cap3. Elemente ale limbajului Python si baze de date SQL-Lite -8-10 pag
+Cap4. Prezentaera frameworkului Django si Bootstrap - 8-10 pag
+Cap5. Prezentare editor de imagini.(*) -5pag
+
+![wichtig]Cap6. Aplicatia "Roommate finder" (prezentare dpdv informatic [arhitectura aplicatiei] + diagrame(ca la software engineering))  ~25-30 pag
+
+Cap.7 Ghidul aplicatiei(* daca nu apare ca buton pe site-ul meu)
+
+Bibliografie & Webografie
+
+Restul in germana
+
+Inceput ianuarie- prezentare
+
+
+
+
